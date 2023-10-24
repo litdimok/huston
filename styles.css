@@ -1,0 +1,12 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body {text-align: left;
+      display: block;
+      width: auto;
+      margin: 20px;
+
+}
+img {float: right;}
